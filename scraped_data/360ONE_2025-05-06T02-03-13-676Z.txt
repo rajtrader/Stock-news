@@ -1,0 +1,29 @@
+
+Stock Analysis Data
+==================
+Symbol: 360ONE
+Timestamp: 2025-05-06T02:03:13.676Z
+URL: https://simplywall.st/stocks/in/diversified-financials/nse-360one/360-one-wam-shares
+
+Risk/Reward Analysis
+-------------------
+REWARDS
+- Earnings are forecast to grow 18.7% per year
+- Earnings grew by 26.2% over the past year
+- Analysts in good agreement that stock price will rise by 26.5%
+
+RISK ANALYSIS
+- Interest payments are not well covered by earnings
+- High level of non-cash earnings
+- Significant insider selling over the past 3 months
+- Dividend of 0.91% is not well covered by free cash flows
+
+Snowflake Score
+--------------
+360ONE fundamental analysis
+Snowflake Score
+Valuation	2/6
+Future Growth	2/6
+Past Performance	3/6
+Financial Health	3/6
+Dividends	2/6

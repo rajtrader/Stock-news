@@ -1,0 +1,26 @@
+
+Stock Analysis Data
+==================
+Symbol: 21STCENMGM
+Timestamp: 2025-05-06T02:03:03.613Z
+URL: https://simplywall.st/stocks/in/diversified-financials/nse-21stcenmgm/twentyfirst-century-management-services-shares
+
+Risk/Reward Analysis
+-------------------
+REWARDS
+- Price-To-Earnings ratio (1.9x) is below the Indian market (26.2x)
+- Earnings grew by 415.1% over the past year
+
+RISK ANALYSIS
+- Does not have a meaningful market cap (₹751M)
+- Unstable dividend track record
+
+Snowflake Score
+--------------
+21STCENMGM fundamental analysis
+Snowflake Score
+Valuation	2/6
+Future Growth	0/6
+Past Performance	5/6
+Financial Health	6/6
+Dividends	5/6

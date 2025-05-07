@@ -1,0 +1,14 @@
+{
+  "name": "simplywallst-scraper",
+  "version": "1.0.0",
+  "description": "Simply Wall St data scraper",
+  "main": "test.js",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
